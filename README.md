@@ -37,4 +37,4 @@ const skills = {
 };
 ```
 ### 🎧 Here's what I'm listening to
-[![Spotify](https://github-profile-spotify-widget.vercel.app/api/spotify)](https://open.spotify.com/user/1176776274)
+[![Spotify](https://github-profile-spotify-widget.vercel.app/api/spotify?background_color=2D333B)](https://open.spotify.com/user/1176776274)
