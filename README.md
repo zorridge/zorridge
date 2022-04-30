@@ -7,7 +7,7 @@
 - 🎯 I want to learn more about web animations
 - 🐈 I love cats
 
-### Here's what I've worked with
+### 🤝 Here's what I've worked with
 
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
@@ -36,3 +36,5 @@ const skills = {
     others: ['Git', 'Github', 'VSCode']
 };
 ```
+### 🎧 Here's what I'm listening to
+[![Spotify](https://github-profile-spotify-widget.vercel.app/api/spotify)](https://open.spotify.com/user/1176776274)
