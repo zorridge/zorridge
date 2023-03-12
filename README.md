@@ -2,16 +2,19 @@
 
 - 👋 I'm Ziheng
 - 🏫 I'm a freshman at Nanyang Technological University
-- 📚 I'm pursuing a Bachelor of Engineering Science under the Renaissance Engineering Programme
-- 🌱 I’m currently learning Next.js
-- 🎯 I want to learn more about web animations
+- 📚 I'm pursuing a B.Eng.Sc. in Computer Science under the Renaissance Engineering Programme
+- 🌱 I’m currently learning Flutter
+- 🎯 I want to learn more about backend development
 - 🐈 I love cats
 
 ### 🤝 Here's what I've worked with
 
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" />          
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />          
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
@@ -30,8 +33,8 @@
 
 ```javascript
 const skills = {
-    languages: ['JavaScript', 'Python', 'C'],
-    frontend: ['HTML5', 'CSS3', 'Bootstrap', 'React', 'Redux'],
+    languages: ['JavaScript', 'TypeScript', 'Dart', 'Python', 'C'],
+    frontend: ['Flutter', 'HTML5', 'CSS3', 'Bootstrap', 'React', 'Redux'],
     backend: ['Node.js', 'Express', 'MongoDB', 'SQLite3'],
     others: ['Git', 'Github', 'VSCode']
 };
