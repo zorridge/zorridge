@@ -3,9 +3,9 @@
 - 👋 I'm Ziheng
 - 🏫 I'm a freshman at Nanyang Technological University
 - 📚 I'm pursuing a B.Eng.Sc. in Computer Science under the Renaissance Engineering Programme
-- 🌱 I’m currently learning Flutter
-- 🎯 I want to learn more about backend development
-- 🐈 I love cats
+- 🌱 I’m currently learning machine learning
+- 🎯 I want to learn more about system design
+- 🎸 I love playing the guitar
 
 ### 🤝 Here's what I've worked with
 
