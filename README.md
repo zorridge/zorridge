@@ -1,5 +1,7 @@
 # Hey there! Welcome To My Github!
 
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ziheng.live/)
+
 - 👋 I'm Ziheng
 - 🏫 I'm a sophomore at Nanyang Technological University
 - 📚 I'm pursuing a B.Eng.Sc. in Computer Science under the Renaissance Engineering Programme
