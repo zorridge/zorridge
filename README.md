@@ -38,7 +38,7 @@
 const skills = {
     languages: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Go', 'Ruby', 'Java', 'Python', 'C'],
     frontend: ['React', 'Next.js', 'Redux', 'Tailwind', 'Jest'],
-    backend: ['Ruby on Rails', 'Node.js', 'Express', 'Firebase', 'MongoDB', 'SQL', 'Redis', 'RabbitMQ', 'Rspec'],
+    backend: ['Ruby on Rails', 'Node.js', 'Express', 'Firebase', 'MongoDB', 'SQL', 'Redis', 'RabbitMQ', 'RSpec'],
     tools: ['Docker', 'Kubernetes', 'Google Cloud Platform', 'Large Language Models', 'Git', 'Github', 'Linux']
 };
 ```
@@ -49,7 +49,7 @@ const skills = {
 - [Spotify Widget](https://github.com/zorridge/github-profile-spotify-widget) - A web widget that displays real-time Spotify listening activities
 
 ### 🏆 Here's what I've competed in
-- Champion, Shopee Product & Design Challenge 2022 - [ShopeePay Near Me UI/UX](https://www.figma.com/design/t2s0K0B7xC1WUU4omEqlLX/SPNM-Prototype?node-id=0-1&node-type=canvas&t=g5DipCiuuluUhc55-0)
+- Champion, Shopee Product & Design Challenge 2022 - [ShopeePay Near Me](https://www.figma.com/design/t2s0K0B7xC1WUU4omEqlLX/SPNM-Prototype?node-id=0-1&node-type=canvas&t=g5DipCiuuluUhc55-0)
 - 1st Runner-Up, PSA Code Sprint 2023 - [Voyage](https://github.com/tanshaochong/voyage)
 - 2nd Runner-Up, Singapore Airlines AppChallenge 2023 - Concierge
 - Google Solution Challenge 2023 - [Lifeline](https://github.com/tanshaochong/Lifeline)
