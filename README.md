@@ -3,10 +3,8 @@
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ziheng.dev/)
 
 - 👋 I'm Ziheng
-- 🏫 I'm a sophomore at Nanyang Technological University
+- 🏫 I'm a junior on exchange at UC Berkeley
 - 📚 I'm pursuing a B.Eng.Sc. in Computer Science under the Renaissance Engineering Programme
-- 🌱 I’m currently learning system design
-- 🎯 I want to learn more about networking
 - 🎸 I love playing the guitar
 
 ### 🤝 Here's what I've worked with
@@ -30,7 +28,7 @@
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;" />
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 <br />
@@ -40,8 +38,8 @@
 const skills = {
     languages: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Go', 'Ruby', 'Java', 'Python', 'C'],
     frontend: ['React', 'Next.js', 'Redux', 'Tailwind', 'Jest'],
-    backend: ['Ruby on Rails', 'Node.js', 'Express', 'Firebase', 'MongoDB', 'SQL'],
-    tools: ['Docker', 'Kubernetes', 'AWS', 'GCP', 'Large Language Models', 'Git', 'Github']
+    backend: ['Ruby on Rails', 'Node.js', 'Express', 'Firebase', 'MongoDB', 'SQL', 'Redis', 'RabbitMQ', 'Rspec'],
+    tools: ['Docker', 'Kubernetes', 'Google Cloud Platform', 'Large Language Models', 'Git', 'Github', 'Linux']
 };
 ```
 ### 🎧 Here's what I'm listening to
